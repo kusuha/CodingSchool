@@ -48,7 +48,7 @@ header {
 /* トップ */
 
 .top {
-  background-image: url(../image/top-bg.png);
+  background-image: url(https://kusuha.github.io/CodingSchool/image/top-bg.png);
   background-size: cover;
   background-position: center;
   height: 551px;
@@ -197,7 +197,7 @@ header {
 /* お問い合わせ */
 
 .contact {
-  background-image: url(/image/contact-bg.png);
+  background-image: url(https://kusuha.github.io/CodingSchool/image/contact-bg.png);
   background-size: cover;
   background-position: center;
   padding-top: 60px;
